@@ -1,0 +1,12 @@
+============================= test session starts =============================
+collecting ... collected 1 item
+
+psnr_cal.py::test PASSED                                                 [100%]The Peak-SNR value is %0.4f 
+ 12.819486679059706
+The Peak-SNR value is %0.4f 
+ 10.02219506789759
+The Peak-SNR value is %0.4f 
+ 11.086885092096342
+
+
+======================== 1 passed, 1 warning in 0.23s =========================
